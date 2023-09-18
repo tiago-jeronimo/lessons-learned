@@ -1,7 +1,3 @@
-### Termos e acordos
-
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
-
 # Boas vindas ao repositório do projeto Lições Aprendidas!
 
 Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Atenção a cada passo e, se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
@@ -139,7 +135,7 @@ Através desta aplicação, será possível realizar a construção de código H
   * **Não se preocupe em preencher mais nada por enquanto!**
   * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-019-c-project-lessons-learned/pulls) e confira que o seu _Pull Request_ está criado
 
---- 
+---
 
 ### Durante o desenvolvimento
 
@@ -238,15 +234,15 @@ O não cumprimento de um requisito, total ou parcialmente, impactará em sua ava
 ### 👀Observações importantes:
 
 * Lembrem-se que como pessoas desenvolvedoras devemos fazer pesquisas e garimpar resultados para auxiliar no entendimento do assunto. Assim, para solucionar os requisitos do projeto é inevitável e estimulado que pesquisas sejam feitas nas mais variadas fontes (course, vídeos do course, google, youtube, etc) sempre tomando cuidado para utilizar fontes "confiáveis" nas pesquisas da Internet, como por exemplo:
-  
+
   * [Javascript.com](http://javascript.com/)
-  
+
   * [W3Schools](https://www.w3schools.com/js/default.asp)
-  
+
   * [MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-  
+
   * [StackOverflow](https://pt.stackoverflow.com/questions/tagged/javascript)
-  
+
 
 ### 1. Adicione uma cor de fundo específica para a página
 
